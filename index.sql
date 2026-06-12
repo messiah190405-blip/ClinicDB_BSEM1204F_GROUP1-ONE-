@@ -1,0 +1,1 @@
+CREATE DATABASE public_health_clinic_records_system;
