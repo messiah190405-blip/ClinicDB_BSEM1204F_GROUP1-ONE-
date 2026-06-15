@@ -176,7 +176,7 @@ SOURCE /path/to/clinic_seed_data.sql;
 
 ---
 
-## Data
+## Seed Data
 
 The database ships with **20 rows per table (100 records total)** localised for **Sierra Leone**:
 
