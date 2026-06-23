@@ -1,0 +1,2 @@
+SELECT * FROM payment 
+LIMIT 5;
