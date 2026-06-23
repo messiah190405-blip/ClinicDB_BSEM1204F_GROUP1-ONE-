@@ -2,6 +2,7 @@ CREATE TABLE worker(
 	workerID INT PRIMARY KEY AUTO_INCREMENT,
     firstName VARCHAR(80) NOT NULL,
     lastName VARCHAR(80) NOT NULL,
+    gender CHAR(1),
     role  VARCHAR(60) NOT NULL,
     specialisation VARCHAR(60),
     phoneNumber VARCHAR(20) NOT NULL,

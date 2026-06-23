@@ -7,6 +7,6 @@ CREATE TABLE diagnosis(
     conditionName VARCHAR(200) NOT NULL,
     symptoms TEXT NOT NULL,
     severity VARCHAR(20) NOT NULL,
-    doctorNotes TEXT,
+    doctorNote TEXT,
     diagnosedDate DATETIME DEFAULT CURRENT_TIMESTAMP
 );
